@@ -1,0 +1,11 @@
+
+/* font-family: "AgoraSansProRegular"; */
+@font-face {
+    font-family: "AgoraSansProRegular";
+    src: url("AgoraSansProRegular.eot");
+    src: url("AgoraSansProRegular.eot?#iefix")format("embedded-opentype"),
+    url("AgoraSansProRegular.woff") format("woff"),
+    url("AgoraSansProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

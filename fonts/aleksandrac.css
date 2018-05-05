@@ -1,0 +1,11 @@
+
+/* font-family: "AleksandraCRegular"; */
+@font-face {
+    font-family: "AleksandraCRegular";
+    src: url("leksandraCRegular.eot");
+    src: url("AleksandraCRegular.eot?#iefix")format("embedded-opentype"),
+    url("AleksandraCRegular.woff") format("woff"),
+    url("AleksandraCRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
